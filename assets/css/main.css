@@ -719,6 +719,13 @@ input[type="radio"] + label:before {
   color: rgba(255, 255, 255, 0.5) !important;
   opacity: 1.0; }
 
+.project-title {
+  color:black;
+}
+
+.p-input {
+  color:black;
+}
 /* Button */
 input[type="submit"],
 input[type="reset"],
